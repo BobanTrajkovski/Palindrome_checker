@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ADD8E6; /* light gray background */
+    text-align: center; /* center all text */
+}
+
+/* Style for container1 */
+#container {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff; /* white background */
+    border: 1px solid #ddd; /* light gray border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* subtle shadow */
+    text-align: center; /* center all text */
+}
+
+#container h3 {
+    color: #333; /* dark gray text */
+}
+
+#container input[type="text"] {
+    width: 300px; /* fixed width for input field */
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc; /* light gray border */
+}
+
+#container button[type="button"] {
+    background-color: #4CAF50; /* green background */
+    color: #fff; /* white text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#container button[type="button"]:hover {
+    background-color: #3e8e41; /* darker green on hover */
+}
+
+#container #result {
+    font-size: 18px;
+    font-weight: bold;
+    color: #666; /* dark gray text */
+}
+
+/* Style for container2 */
+#container2 {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #FFEA00; /* light gray background */
+    border: 1px solid #ccc; /* light gray border */
+    text-align: center; /* center all text */
+    border-radius: 10px;
+}
+
+#container2 h3 {
+    color: #666; /* dark gray text */
+}
+
+#container2 p {
+    font-size: 16px;
+    color: #444; /* dark gray text */
+}
+
+#container1 {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f7f7f7; /* light gray background */
+    border: 1px solid #ccc; /* light gray border */
+    text-align: center; /* center all text */
+    border-radius: 10px;
+}
+
+#container1 h3 {
+    color: #000000; /* dark gray text */
+}
+
+#container1 p {
+    font-size: 16px;
+    color: #000000.; /* dark gray text */
+}
